@@ -1,0 +1,32 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_290_4716)">
+<rect x="8" y="6" width="52" height="52" rx="18" fill="white"/>
+<path d="M27.3387 21H40.9174C41.1741 21 41.4283 21.0506 41.6654 21.1488C41.9025 21.247 42.118 21.391 42.2995 21.5725C42.481 21.754 42.6249 21.9694 42.7232 22.2066C42.8214 22.4437 42.8719 22.6979 42.8719 22.9545V41.0455C42.8719 41.3021 42.8214 41.5563 42.7232 41.7934C42.6249 42.0306 42.481 42.246 42.2995 42.4275C42.118 42.609 41.9025 42.753 41.6654 42.8512C41.4283 42.9494 41.1741 43 40.9174 43H27.3387C26.8205 43 26.3235 42.7941 25.9571 42.4277C25.5906 42.0613 25.3848 41.5643 25.3848 41.046V22.954C25.3848 22.4357 25.5906 21.9387 25.9571 21.5723C26.3235 21.2059 26.8205 21 27.3387 21Z" fill="url(#paint0_linear_290_4716)"/>
+<path d="M23.9066 40.7435H24.2564V23.2563H23.9066C23.4013 23.2576 22.9171 23.4589 22.5599 23.8162C22.2026 24.1735 22.0013 24.6577 22 25.1629V38.8369C22.0013 39.3422 22.2026 39.8264 22.5599 40.1837C22.9171 40.5409 23.4013 40.7422 23.9066 40.7435Z" fill="url(#paint1_linear_290_4716)"/>
+<path d="M46.2564 25.1629C46.2551 24.6577 46.0538 24.1735 45.6965 23.8162C45.3393 23.4589 44.8551 23.2576 44.3498 23.2563H44V40.7435H44.3498C44.8551 40.7422 45.3393 40.5409 45.6965 40.1837C46.0538 39.8264 46.2551 39.3422 46.2564 38.8369V25.1629Z" fill="url(#paint2_linear_290_4716)"/>
+</g>
+<defs>
+<filter id="filter0_d_290_4716" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_290_4716"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_290_4716" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_290_4716" x1="68.3078" y1="61.5" x2="1.30692" y2="77.4104" gradientUnits="userSpaceOnUse">
+<stop offset="0.0284255" stop-color="#417DB3"/>
+<stop offset="0.837603" stop-color="#1C354C"/>
+</linearGradient>
+<linearGradient id="paint1_linear_290_4716" x1="27.5385" y1="55.4486" x2="18.4192" y2="55.8002" gradientUnits="userSpaceOnUse">
+<stop offset="0.0284255" stop-color="#417DB3"/>
+<stop offset="0.837603" stop-color="#1C354C"/>
+</linearGradient>
+<linearGradient id="paint2_linear_290_4716" x1="49.5385" y1="55.4486" x2="40.4192" y2="55.8002" gradientUnits="userSpaceOnUse">
+<stop offset="0.0284255" stop-color="#417DB3"/>
+<stop offset="0.837603" stop-color="#1C354C"/>
+</linearGradient>
+</defs>
+</svg>
